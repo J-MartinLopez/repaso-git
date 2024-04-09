@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 
 
+<<<<<<< HEAD
 Aca estamos haciendo un repaso de git
 
 
@@ -16,3 +17,6 @@ a
 a
 a
 >>>>>>> martin
+=======
+cambio mcv 
+>>>>>>> origin/mateoc
