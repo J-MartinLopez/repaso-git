@@ -1,4 +1,4 @@
 # repaso-git
 
 
-Aca estamos haciendo un repaso de git
+cambios en buenas gente 
